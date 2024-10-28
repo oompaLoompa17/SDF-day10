@@ -1,0 +1,11 @@
+io,file reading/writing
+algo for tic tac toe game? -> minimax algo
+multi-threading a need-to-know
+no html required
+
+reading in chunks, find specific elements in a text file (e.g. commas)
+clone(): an implementation of Cloneable interface --> clones an object and isn't subsequently 
+		modified alongside the original (if the original is modded)
+
+Qn1. read data from file, perform aggregation (via streams?) stream, filter, map, count
+Qn2. tic tac toe game (using minimax algo)
